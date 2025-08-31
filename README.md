@@ -1,28 +1,28 @@
-# ReMakersHub
+# Shills Professional Website
 
-**ReMakersHub** is a startup project developed for promoting sustainability and supporting small creators by turning waste into value.
+**Shills Professional** is a professional e-commerce website for beauty and cosmetic products, built as a Bootstrap project to showcase frontend development skills.
 
 ## Live Website
-[View Live Website](https://Siva3207.github.io/ReMakersHub/)
+[View Live Website](https://Siva3207.github.io/ShillsProfessional/)
 
 ## Overview
-Every day, tons of waste like plastic, paper, bottles, and old materials are thrown away. Many people don’t know how to reuse them, and opportunities to create eco-friendly products are lost. ReMakersHub solves this problem by creating a platform where users can sell their waste or handmade products, and buyers can purchase eco-friendly products easily.
+Shills Professional is designed to provide users with an interactive and user-friendly online shopping experience for beauty products. The website includes product categories, search, cart, and contact forms, along with visually engaging design elements like carousels and circular product sliders.
 
 ## Features
-- Sell waste materials (plastic, paper, bottles) directly for money.
-- Sell handmade or recycled products by students and local creators.
-- Buy eco-friendly products supporting sustainability and small sellers.
-- Cart and profile features for seamless e-commerce experience.
-- Simple revenue model through a small commission per transaction.
+- Responsive navigation bar with dropdown menus for product categories.
+- Image carousel for featured products or banners.
+- Product cards with prices, discounts, and add-to-cart buttons.
+- Circular product carousel for quick browsing.
+- Contact section with email subscription form and social media links.
+- Footer with policies and support information.
 
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
-- Responsive Design
+- Bootstrap 5
+- Font Awesome for icons
 
 ## Purpose
-- Promote a circular economy by turning waste into value.
-- Support eco-friendly entrepreneurship.
-- Provide a simple online marketplace for small creators.
-
+- Provide a professional online shopping experience.
+- Enhance user engagement with interactive UI elements.
+- Demonstrate frontend web development skills using Bootstrap.
